@@ -1,6 +1,6 @@
 # Rale4j
 
-Rale4j (**Rate Limiting Enhancement for Java Devs**) is a powerful, lightweight, and configurable **rate-limiting** library for Spring Boot applications.
+Rale4j (**Rate Limiting Enhancement for Java Devs**) is a powerful, lightweight, and configurable **rate-limiting** library for Java applications.
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.rale4j/rale4j-core.svg)](https://central.sonatype.com/artifact/com.rale4j/rale4j-core)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
