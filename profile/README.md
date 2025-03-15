@@ -7,8 +7,8 @@ Rale4j (**Rate Limiting Enhancement for Java Devs**) is a powerful, lightweight,
 [![Javadoc](https://img.shields.io/badge/JavaDoc-Online-green)](https://rale4j.github.io/rale4j-spring-boot/javadoc/)
 
 ## 🔥 Why Use Rale4j?
-✅ **Simple Annotations** – Just use `@Rale4j` to control API access.  
-✅ **Flexible Configuration** – Customize limits via `application.properties` or Java configurations.  
+✅ **Simple Annotations** – Just use `@Rale4j` to control API access for spring boot.  
+✅ **Flexible Configuration** – Customize limits via `application.properties` or `application.yml`.  
 ✅ **In-Memory & Redis Support** – Choose between **Guava Cache** (in-memory) or **Redis** for distributed rate limiting.  
 ✅ **High Performance** – Uses efficient algorithms like **Token Bucket, Sliding Window, and Leaky Bucket**.  
 ✅ **Observability** – Integrates with **Prometheus & Grafana** for monitoring.  
